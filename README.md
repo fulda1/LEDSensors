@@ -1,6 +1,6 @@
 # LEDSensors
-Extension of Paul H. Dietz project LEDSensors https://github.com/paulhdietz/LEDSensors
-
+Extension of Paul H. Dietz project LEDSensors https://github.com/paulhdietz/LEDSensors  
+Funny video: https://www.youtube.com/watch?v=3iPZrz0pyAs
 
 Change to smaller processors (PIC16F15313 / PIC10F320 etc)
 
