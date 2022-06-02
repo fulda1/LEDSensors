@@ -3,7 +3,7 @@
 ;;======================================================================;;
 ;;									;;
 ;; Program:		Hrátky s LED diodou - LED ktera sviti jen kdyz je tma	;;
-;; Code:		Jindra Ficik					;;
+;; Code:		Jindra Fucik					;;
 ;; Platform:		Microchip PIC10F320(2), 500 khz			;;
 ;; Date:		23.05.2022					;;
 ;; First release:	08.03.2021					;;
